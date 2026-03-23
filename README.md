@@ -6,8 +6,6 @@ Pedro Miranda Campos Riato - RM: 562117
 
 Israel Karacsony de Camargo Nunes - RM: 563435
 
-Thiago Ono Sakai - RM: 563448
-
 Diego Antonio Silva Mendes - RM: 565509
 
 Sobre o Projeto:
